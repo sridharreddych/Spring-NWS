@@ -1,0 +1,33 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" 
+"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+
+<!-- <bean id = "c" class = "beans.Car"  dependency-check="none"> -->
+<!--  no need to call any setter methods, with out calling any setter method you can create car class object -->
+
+
+<!-- </bean> -->
+
+<!-- bean id = "c" class = "beans.Car"  dependency-check="simple">
+   we must need to call simple primitive setter methods 
+<property name="carname" value="Audi"/>
+
+</bean-->
+
+<bean id="e" class="beans.Engine" dependency-check="simple">
+<property name="modelyear" value="2015" />
+</bean>
+<!--  bean id = "c" class = "beans.Car"  dependency-check="objects">
+ we must need to call simple secondary setter methods , here no need to pass carname just engine reference is enough
+<property name="engine" ref="e"/>
+</bean -->
+
+<bean id = "c" class = "beans.Car"  dependency-check="all">
+<!--  we must need to call simple secondary setter methods , here no need to pass carname just engine reference is enough-->
+<property name="carname" value="Audi"/>
+<property name="engine" ref="e"/>
+</bean>
+
+
+</beans>

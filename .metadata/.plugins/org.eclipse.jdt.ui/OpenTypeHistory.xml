@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=FactoryClasses/src&lt;beans{Car.java[Car" modifiers="513" timestamp="1469322147606"/>
+<typeInfo handle="=MethodReplacer/C:\/Users\/Sridhar reddy\/Downloads\/jars\/Jars Latest\/spring-framework-2.5\/spring-framework-2.5\/dist\/modules\/spring-beans.jar&lt;org.springframework.beans.factory.support(MethodReplacer.class[MethodReplacer" modifiers="1537" timestamp="1195488594000"/>
+<typeInfo handle="=EventHandlers/C:\/Users\/Sridhar reddy\/Downloads\/jars\/spring-framework-3.0.1.RELEASE-A\/spring-framework-3.0.1.RELEASE-A\/dist\/org.springframework.context-3.0.1.RELEASE-A.jar&lt;org.springframework.context(ApplicationEventPublisher.class[ApplicationEventPublisher" modifiers="1537" timestamp="1266566208000"/>
+<typeInfo handle="=EventHandlers/C:\/Users\/Sridhar reddy\/Downloads\/jars\/spring-framework-3.0.1.RELEASE-A\/spring-framework-3.0.1.RELEASE-A\/dist\/org.springframework.context-3.0.1.RELEASE-A.jar&lt;org.springframework.context(ApplicationListener.class[ApplicationListener" modifiers="1537" timestamp="1266566208000"/>
+<typeInfo handle="=MVC_HelloWorld/C:\/Users\/Sridhar reddy\/Downloads\/jars\/spring-framework-3.0.1.RELEASE-A\/spring-framework-3.0.1.RELEASE-A\/dist\/org.springframework.web.servlet-3.0.1.RELEASE-A.jar&lt;org.springframework.web.servlet.mvc(Controller.class[Controller" modifiers="1537" timestamp="1266566208000"/>
+<typeInfo handle="=EmpReg_BCC/F:\/Spring NWS\/EmpReg_BCC\/WebContent\/WEB-INF\/lib\/spring-context.jar&lt;org.springframework.validation(Validator.class[Validator" modifiers="1537" timestamp="1472277012710"/>
+<typeInfo handle="=BeanlifeCycles_Annotations/src&lt;dao{StudentDao.java[StudentDao" modifiers="513" timestamp="1472822523642"/>
+<typeInfo handle="=Connection_JDBC/src&lt;dao{StudentDao.java[StudentDao" modifiers="513" timestamp="1473419975195"/>
+<typeInfo handle="=Connection_JDBC/src&lt;business{StudentBo.java[StudentBo" modifiers="513" timestamp="1473421935638"/>
+<typeInfo handle="=Spring_BO_DAO/src&lt;com.ss.ems.bo{StudentBoInterface.java[StudentBoInterface" modifiers="513" timestamp="1473733641063"/>
+<typeInfo handle="=Spring_BO_DAO/src&lt;com.ss.ems.dao{StudentDaoInterface.java[StudentDaoInterface" modifiers="513" timestamp="1473733305191"/>
+<typeInfo handle="=AOP_Programatic_MBA/C:\/Program Files\/Java\/jdk1.7.0_45\/jre\/lib\/rt.jar&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1384015602685"/>
+<typeInfo handle="=AOP_Programatic_MBA/C:\/Users\/Sridhar reddy\/Downloads\/jars\/Spring 2.5.5 all jars copied\/spring-aop.jar&lt;org.springframework.aop(MethodBeforeAdvice.class[MethodBeforeAdvice" modifiers="1537" timestamp="1214188748000"/>
+</typeInfoHistroy>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;EventHandlers/src&apos;&#x0D;&#x0A;- Original project: &apos;Depends_On&apos;&#x0D;&#x0A;- Destination element: &apos;EventHandlers/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Depends_On/src/test&#x0D;&#x0A;     Depends_On/src/resources" description="Copy packages" destination="=EventHandlers/src" element1="/src&lt;test" element2="/src&lt;resources" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1470475825587" version="1.0"/>
+</session>

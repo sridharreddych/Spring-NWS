@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Copy of AutoWiring_DI/src/resources/spring_byType.xml&apos; to &apos;spring_byType_sri.xml&apos;" description="Rename resource &apos;spring_byType.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/resources/spring_byType.xml" name="spring_byType_sri.xml" stamp="1499265903691" updateReferences="true"/>
+</session>

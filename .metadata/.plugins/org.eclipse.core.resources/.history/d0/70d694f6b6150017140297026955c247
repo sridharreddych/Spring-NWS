@@ -1,0 +1,15 @@
+package com.sree.composite;
+
+public class CompositeTest {
+
+	public static void main(String[] args) {
+		
+		Component hd = new Leaf(4000,"HDD");
+		Component hd = new Leaf(4000,"HDD");
+		Component hd = new Leaf(4000,"HDD");
+		Component hd = new Leaf(4000,"HDD");
+		
+
+	}
+
+}

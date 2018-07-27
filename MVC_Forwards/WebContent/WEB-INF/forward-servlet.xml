@@ -1,0 +1,17 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" 
+"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+
+<!--  simple handler mapping -->
+
+<bean name="/hello.ss" class="org.springframework.web.servlet.mvc.UrlFilenameViewController"/>
+<bean name="/hai.ss" class="org.springframework.web.servlet.mvc.UrlFilenameViewController"/> 
+
+<!--  view resolver -->
+<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="prefix" value="/"/>
+		<property name="suffix" value=".jsp"/>
+
+</bean>
+</beans>

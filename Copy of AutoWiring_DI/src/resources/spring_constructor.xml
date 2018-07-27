@@ -1,0 +1,19 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" 
+"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+<!-- constructor (byType) -->
+
+ <bean id="engine" class="beans.Engine" autowire-candidate="false">
+  <property name="modelyear" value="2015" />
+ </bean>
+
+  <bean id="e2" class="beans.Engine" >
+  <property name="modelyear" value="2016" />
+ </bean>
+
+ <bean id="b" class="beans.Bus" autowire="constructor">
+  <!-- //  in case of manual DI what we dohere is as below is not required when we apply autowire -->
+    <!-- <property name="engine" ref="e1"/> -->
+</bean>
+
+</beans>

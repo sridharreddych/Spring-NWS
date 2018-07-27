@@ -1,0 +1,23 @@
+package com.sree.composite;
+
+public class ComputerPart {
+
+	interface component{
+		
+		void showPrice();
+	}
+	
+	class leaf
+	{
+		
+		
+	}
+	class composite
+	{
+		
+		
+	}
+	
+	
+	
+}

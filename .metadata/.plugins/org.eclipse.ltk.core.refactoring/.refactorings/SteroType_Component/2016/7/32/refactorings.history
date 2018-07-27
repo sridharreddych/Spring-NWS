@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;StereoType_j2eeNamed/src&apos;&#x0D;&#x0A;- Original project: &apos;SteroType_Component&apos;&#x0D;&#x0A;- Destination element: &apos;StereoType_j2eeNamed/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     SteroType_Component/src/resources&#x0D;&#x0A;     SteroType_Component/src/test" description="Copy packages" destination="=StereoType_j2eeNamed/src" element1="/src&lt;resources" element2="/src&lt;test" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1469932869098" version="1.0"/>
+</session>

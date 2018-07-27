@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;resources&apos; to &apos;LookupMethodDI/src&apos;&#x0D;&#x0A;- Original project: &apos;IOC_CoreTest&apos;&#x0D;&#x0A;- Destination element: &apos;LookupMethodDI/src&apos;&#x0D;&#x0A;- Original element: &apos;IOC_CoreTest/src/resources&apos;" description="Copy package" destination="=LookupMethodDI/src" element1="/src&lt;resources" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1469757520394" version="1.0"/>
+</session>

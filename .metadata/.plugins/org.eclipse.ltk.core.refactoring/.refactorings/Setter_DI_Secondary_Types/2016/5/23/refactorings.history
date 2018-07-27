@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;car.xml&apos; to &apos;Setter_DI_Secondary_Types/src/resources&apos;&#x0D;&#x0A;- Original project: &apos;Setter_DI_Secondary_Types&apos;&#x0D;&#x0A;- Destination element: &apos;Setter_DI_Secondary_Types/src/resources&apos;&#x0D;&#x0A;- Original element: &apos;car.xml&apos;" description="Copy file" destination="/src&lt;resources" element1="src/resources/car.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1464488596698" units="0" version="1.0"/>
+</session>

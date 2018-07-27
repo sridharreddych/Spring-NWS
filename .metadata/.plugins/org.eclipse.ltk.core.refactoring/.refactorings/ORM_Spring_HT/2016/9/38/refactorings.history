@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;resources&apos; to &apos;Spring_BO_DAO/src&apos;&#x0D;&#x0A;- Original project: &apos;ORM_Spring_HT&apos;&#x0D;&#x0A;- Destination element: &apos;Spring_BO_DAO/src&apos;&#x0D;&#x0A;- Original element: &apos;ORM_Spring_HT/src/resources&apos;" description="Copy package" destination="=Spring_BO_DAO/src" element1="/src&lt;resources" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1473734573408" version="1.0"/>
+</session>

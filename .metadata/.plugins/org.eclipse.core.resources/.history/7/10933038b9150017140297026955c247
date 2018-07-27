@@ -1,0 +1,22 @@
+package com.sree.composite;
+
+import com.sree.composite.ComputerPart.Component;
+
+public class CompositeTest {
+
+	public static void main(String[] args) {
+		
+		Component hd = new Leaf(4000,"HDD");
+		Component mouse = new Leaf(4000,"Mouse");
+		Component monitor = new Leaf(4000,"Monitor");
+		Component ram = new Leaf(4000,"Ram");
+		Component cpu = new Leaf(4000,"CPU");
+
+		Component ph = Composite("peri");
+		Component cabinet = Composite("Cabinet");
+		Component mb = Composite("MB");
+		Component computer = Composite("Computer");
+		
+	}
+
+}

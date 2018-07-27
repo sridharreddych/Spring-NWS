@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;resources&apos; to &apos;Depends_On/src&apos;&#x0D;&#x0A;- Original project: &apos;Default_CollectionDI&apos;&#x0D;&#x0A;- Destination element: &apos;Depends_On/src&apos;&#x0D;&#x0A;- Original element: &apos;Default_CollectionDI/src/resources&apos;" description="Copy package" destination="=Depends_On/src" element1="/src&lt;resources" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1466647129282" version="1.0"/>
+</session>

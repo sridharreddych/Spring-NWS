@@ -1,0 +1,51 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" 
+"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+<!--  <bean id ="b" class="business.Bank"/>
+ <bean id="lb" class="services.LogBeforeService"/>
+ 
+ <bean id="proxy" class="org.springframework.aop.framework.ProxyFactoryBean">
+ in this proxy factory bean how to add your target by using setTarget method and pass your reference of b
+  <property name="target" ref="b"/>
+   and the next to add advices what are we doing in programmatic approach, we are using add addAdvice method there but in setter DI add is not useful right
+   so you can go through setInterceptor names , actually interceptor names type is what String array type, so array of strings you need to pass here
+  <property name="interceptorNames">
+  	<list>
+  	<value>lb</value>
+  	</list>
+  </property>
+  
+  
+ </bean>
+  -->
+  
+  <!--  create your target -->
+  <bean id ="b" class="business.Bank"/>
+  <!--  create your service -->
+  
+ <bean id="lb" class="service.LogBeforeService"/>
+ 
+ <bean id="dp" class="service.DepositPointcut"/>
+ 
+ <!--  first what we should do here this service and condition class we need to add both them to a adviser -->
+ 
+ <bean id="dpc" class="org.springframework.aop.support.DefaultPointcutAdvisor">
+  <property name="advice" ref="lb" />
+  <property name="pointcut" ref="dp"/>
+   </bean>
+ 
+ <!--  then finally create proxy for your proxy what you need to add , target and your interceptor references-->
+<bean id="proxy" class="org.springframework.aop.framework.ProxyFactoryBean">
+   <property name="target" ref="b"/>
+    <property name="interceptorNames">
+  	<list>
+  	<value>dpc</value>
+  	</list>
+  </property>
+  
+  
+ </bean>
+ 
+ 
+</beans>
+

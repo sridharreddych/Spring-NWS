@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 packages to &apos;AOP_Programatic_MBA_xml_SMMPC/src&apos;&#x0D;&#x0A;- Original project: &apos;AOP_Programatic_MBA_xml&apos;&#x0D;&#x0A;- Destination element: &apos;AOP_Programatic_MBA_xml_SMMPC/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     AOP_Programatic_MBA_xml/src/resources&#x0D;&#x0A;     AOP_Programatic_MBA_xml/src/business&#x0D;&#x0A;     AOP_Programatic_MBA_xml/src/test&#x0D;&#x0A;     AOP_Programatic_MBA_xml/src/service" description="Copy packages" destination="=AOP_Programatic_MBA_xml_SMMPC/src" element1="/src&lt;resources" element2="/src&lt;business" element3="/src&lt;test" element4="/src&lt;service" flags="589830" fragments="4" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1474127450575" version="1.0"/>
+</session>

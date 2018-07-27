@@ -1,0 +1,11 @@
+127.0.0.1 - - [26/Aug/2016:07:44:07 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [26/Aug/2016:07:44:09 +0530] "GET /EmpCrudMAC/ HTTP/1.1" 200 1788
+0:0:0:0:0:0:0:1 - - [26/Aug/2016:07:44:22 +0530] "GET /EmpCrudMAC/empsave.jsp HTTP/1.1" 200 268
+127.0.0.1 - - [26/Aug/2016:07:51:54 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [26/Aug/2016:07:51:55 +0530] "GET /EmpCrudMAC/ HTTP/1.1" 200 1788
+0:0:0:0:0:0:0:1 - - [26/Aug/2016:07:51:59 +0530] "GET /EmpCrudMAC/empsave.jsp HTTP/1.1" 200 250
+0:0:0:0:0:0:0:1 - - [26/Aug/2016:07:52:16 +0530] "GET /EmpCrudMAC/empsave.ss?name=kiran&email=kiran@gmail.com&address=kiran+home HTTP/1.1" 500 3300
+127.0.0.1 - - [26/Aug/2016:07:53:53 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [26/Aug/2016:07:53:54 +0530] "GET /EmpCrudMAC/ HTTP/1.1" 200 1788
+0:0:0:0:0:0:0:1 - - [26/Aug/2016:07:53:56 +0530] "GET /EmpCrudMAC/empsave.jsp HTTP/1.1" 200 250
+0:0:0:0:0:0:0:1 - - [26/Aug/2016:07:54:08 +0530] "GET /EmpCrudMAC/empsave.ss?name=kiran&email=test&address=test HTTP/1.1" 500 3300

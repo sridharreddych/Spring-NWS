@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;resources&apos; to &apos;AOP_Programatic_MBA_xml/src&apos;&#x0D;&#x0A;- Original project: &apos;Array_DI&apos;&#x0D;&#x0A;- Destination element: &apos;AOP_Programatic_MBA_xml/src&apos;&#x0D;&#x0A;- Original element: &apos;Array_DI/src/resources&apos;" description="Copy package" destination="=AOP_Programatic_MBA_xml/src" element1="/src&lt;resources" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1474114909775" version="1.0"/>
+</session>

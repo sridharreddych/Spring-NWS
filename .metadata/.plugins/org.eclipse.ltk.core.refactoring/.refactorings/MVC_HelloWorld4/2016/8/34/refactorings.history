@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MVC_HelloWorld4/WebContent/WEB-INF/helloWorld-servlet.xml&apos; to &apos;spring.xml&apos;" description="Rename resource &apos;helloWorld-servlet.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/helloWorld-servlet.xml" name="spring.xml" stamp="1471714716970" updateReferences="true"/>
+</session>

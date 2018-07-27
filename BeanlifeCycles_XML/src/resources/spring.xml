@@ -1,0 +1,15 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" 
+"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans default-init-method="init" default-destroy-method="destroy">
+ 
+ <bean id ="t" class="beans.Test" > 
+  <property name="driver" value="oracle.jdbc.OracleDriver"/>
+  <property name="url" value="jdbc:oracle:thin:@Localhost:1521:xe"/>
+  <property name="username" value="user1"/>
+  <property name="pwd" value="sridhar"/>
+  </bean>
+  
+  <bean id="t1" class="beans.Test1"  />
+  <bean id="t2" class="beans.Test2"  />  
+ 
+</beans>
